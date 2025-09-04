@@ -1,0 +1,12 @@
+In this project, I built a complete bookstore analytics solution using SQL. By the end of this project, you can:
+  Identify best-selling books and revenue drivers
+  Track and alert on low inventory stock
+  Segment customers by behavior (RFM)
+  Measure ROI on customer acquisition
+  Present insights to stakeholders
+
+Tools and Technologies
+
+  SQL (SQLite/PostgreSQL/MySQL)
+  Subqueries, Joins, Aggregations
+  Common Table Expressions (CTEs)
